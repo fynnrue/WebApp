@@ -1,0 +1,31 @@
+@import '../quasar-variables.sass';
+
+body.body--light {
+  --on-surface: black;
+
+}
+
+body.body--dark {
+  --on-surface: white;
+
+  // background: greenyellow;
+}
+
+:root {
+  --background: #f5f5f5;
+  --on-surface: black;
+}
+
+body {
+  background: var(--background);
+  --surface: black;
+}
+
+.surface {
+  background: var(--surface);
+  color: var(--on-surface);
+}
+
+.text-surface {
+  color: var(--on-surface);
+}

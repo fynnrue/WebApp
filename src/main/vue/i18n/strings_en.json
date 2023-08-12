@@ -1,0 +1,432 @@
+{
+  "hello_world": "Hello World!",
+  "Building": "Building:",
+  "Floor": "Floor:",
+  "title_bar": {
+    "home": "Home",
+    "issue": "Issue",
+    "profile": "Profile",
+    "admin": "Admin"
+  },
+  "plan_list": {
+    "requiredcredentials": "Required Credentials: ",
+    "group": "Group",
+    "building": "Building",
+    "floor": "Floor",
+    "room": "Room",
+    "requiredCredentials": "Required Credentials",
+    "doors": "Doors",
+    "apply": "Filter"
+  },
+  "start": {
+    "invalid_name": "Invalid name",
+    "invalid_image": "Invalid image",
+    "upload_failed": "Upload failed",
+    "select_building": "Select a building:",
+    "to_list_view": "To list view",
+    "Building": "Building:",
+    "loading_buildings": "Loading buildings...",
+    "add_building": "Add building",
+    "filter_Required_Credentials": "Credential filter",
+    "select_image": "Select image",
+    "name": "Name",
+    "apply": "Apply",
+    "cancel": "Cancel",
+    "add_floor": "Add a floor",
+    "select_floor": "Select a floor",
+    "loading_floors": "Loading floors...",
+    "delete_floor": "Delete floor",
+    "add": "Add",
+    "delete_building": "Delete building",
+    "filter_rooms": {
+      "title": "Filter Rooms",
+      "back": "Back",
+      "reset": "Reset",
+      "apply": "Apply Filter"
+    },
+    "to_user_credential_view": "Show all credentials"
+  },
+  "delete_dialog": {
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "confirmation": "Do you really want to delete?",
+    "delete_failed": "Delete failed",
+    "select": "Which one do you want to delete?",
+    "selection": "Select",
+    "s": "Select"
+  },
+  "profile": {
+    "your_profile": "Here you can manage your profile. Always keep your data up to date.",
+    "welcome": "Welcome back",
+    "email": "E-Mail",
+    "roles": "Roles",
+    "change_password": "Change password",
+    "logout": "Logout",
+    "forename": "First name",
+    "surname": "Last name",
+    "save_changes": "Save changes",
+    "changed": "Changed",
+    "changePassword": "Change password:",
+    "password": "Password",
+    "newPassword": "New password",
+    "repeatPassword": "Repeat new password",
+    "oldPassword": "Old password",
+    "passwordsNotEqual": "Passwords do not match",
+    "wrongPassword": "Wrong password",
+    "back_to_profile": "Back",
+    "edit": "Edit",
+    "deleted": "Deleted",
+    "invalid": "Invalid",
+    "delete_account": "Delete Account",
+    "error": "Error",
+    "delete_account_text": "Are you sure you want to delete your account? This action can not be undone.",
+    "cancel": "Cancel"
+  },
+  "imprint": {
+    "imprint": "Imprint"
+  },
+  "registration": {
+    "header": "Register",
+    "forename-ph": "first name",
+    "forename-hi": "First name",
+    "surname-ph": "last name",
+    "surname-hi": "Last name",
+    "email-ph": "e-mail",
+    "email-hi": "E-Mail",
+    "password-ph": "password",
+    "password-hi": "Password",
+    "rep-password-ph": "repeat password",
+    "rep-password-hi": "Repeat password",
+    "register": "Register",
+    "success": "Verification e-mail send",
+    "failure": "Account could not be created",
+    "repeatPassword": "Passwords do not match",
+    "emailExists": "An account with the provided e-mail already exists",
+    "somethingWrong": "Something went wrong",
+    "fillFields": "Please fill in all fields",
+    "logIn": "Sign in",
+    "registrationFailed": "Registration failed",
+    "redirect" : {
+      "headerSuccess": "Registration successful!",
+      "headerFailure": "Registration failed!",
+      "text1": "You will be redirected in",
+      "text2": "seconds..."
+    }
+  },
+  "admin_design_settings": {
+    "change_color": "Change Color",
+    "BGC": "Background Color",
+    "SFC": "Surface Color",
+    "HLC": "Primary Color",
+    "ACC": "Secondary Color",
+    "TPC": "Text Primary",
+    "TSC": "Text Secondary",
+    "SCBTN": "Secondary Button",
+    "SwitchMode": "Switch Mode",
+    "UploadImage": "Upload Image",
+    "EditImprint": "Edit Imprint",
+    "UploadLogo": "Upload Logo",
+    "ChangeFavIcon": "Change favicon",
+    "DarkMode": "(Dark Mode)",
+    "LightMode": "(Light Mode)",
+    "UploadFailed": "Upload failed",
+    "UploadSuccessful": "Upload successful",
+    "Save": "Save",
+    "Cancel": "Cancel",
+    "Apply": "Apply"
+  },
+  "admin_user_management": {
+    "permissions": "Permissions",
+    "activationStatus": "Activated",
+    "search": "Search",
+    "apply": "Apply",
+    "permissionsArray": {
+      "admin": "Admin",
+      "issuer": "Issuer",
+      "planner": "Planner",
+      "none": "None"
+    },
+    "activationArray": {
+      "yes": "Yes",
+      "no": "No"
+    },
+    "searchArray": {
+      "forename": "First name",
+      "surname": "Last name",
+      "email": "E-Mail"
+    },
+    "selected": {
+      "activate": "Activate selected",
+      "deactivate": "Deactivate selected",
+      "delete": "Delete selected",
+      "errorActivate": "Error occurred while activating",
+      "errorDeactivate": "Error occurred while deactivating",
+      "errorDelete": "Error occurred while deleting",
+      "errorRoles": "Error occurred while changing roles",
+      "somethingWrong": "Something went wrong",
+      "confirm": "Confirm",
+      "askConfirm": "Are you sure you want to perform this action?",
+      "sameUser": "You can not perform this action on yourself!"
+    },
+    "successful": {
+      "activation": "Successfully activated",
+      "deactivation": "Successfully deactivated",
+      "deletion": "Successfully deleted"
+    },
+    "columnNames": {
+      "forename": "First Name",
+      "surname": "Last name",
+      "email": "E-Mail",
+      "permissions": "Permissions",
+      "activated": "Activated",
+      "selected": ""
+    },
+    "table": {
+      "admin": "Admin",
+      "issuer": "Issuer",
+      "planner": "Planner",
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "modify_user_dialog": {
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "activateUsersH": "Activate users?",
+    "deactivateUsersH": "Deactivate users?",
+    "deleteUsersH": "Delete users?",
+    "activateUserH": "Activate user?",
+    "deactivateUserH": "Deactivate user?",
+    "deleteUserH": "Delete user?",
+    "confirmQuestion": "Are you sure you want to perform this action? These changes can not be undone!"
+  },
+  "admin_user_editor": {
+    "userInformation": "User Information",
+    "user": "User",
+    "email": "E-Mail",
+    "status": {
+      "status": "Status",
+      "active": "Activated",
+      "deactivated": "Deactivated"
+    },
+    "permissions": "Permissions",
+    "permissionsArray": {
+      "admin": "Admin",
+      "issuer": "Issuer",
+      "planner": "Planner"
+    },
+    "issuerInformation": "Issuer Information",
+    "selected": "Selected",
+    "search": "Search",
+    "credentials": "Credentials",
+    "buttons": {
+      "save": "Save",
+      "cancel": "Cancel",
+      "delete": "Delete User",
+      "activate": "Activate User",
+      "deactivate": "Deactivate User"
+    },
+    "loading": "Loading user information",
+    "successful": "Saved successfully",
+    "roles": {
+      "error": "Error occurred while saving roles",
+      "message": "You can not remove your own admin role!"
+    }
+  },
+  "admin_credential_management": {
+    "title": "Credentials",
+    "edit": "Edit Credential",
+    "columnNames": {
+      "ID": "ID",
+      "DID": "DID",
+      "name": "Name",
+      "origin": "Origin",
+      "AdditionalText": "Additional",
+      "editCredential": "Edit Credential",
+      "checklist": "Edit checklist"
+    }
+  },
+  "admin_credential_group_management": {
+    "title" : "Credential-Groups",
+    "credentials": "Credentials",
+    "columnNames": {
+      "credentialString": "CredentialIDs",
+      "name": "Name",
+      "origin": "Origin",
+      "AdditionalText": "Additional"
+    },
+    "confirmDialog": {
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "message": "Do you really want to delete the chosen Credential-Group? This action can not be undone."
+    },
+    "edit" : {
+      "credentials": "Credential-IDs: ",
+      "AdditionalText": "Additional: ",
+      "button": "Edit Credential-Group",
+      "success": " was edited successfully",
+      "alreadyExists": "Credential-Group with these CredentialIDs already exists",
+      "error": "An unexpected error occured",
+      "delete": "Credential-Group was deleted successfully"
+    },
+    "add": {
+      "emptyId": "At least one CredentialID must be selected",
+      "emptyName": "You have to choose a name",
+      "success": " was added successfully",
+      "nameExists": "A Credential-Group with this name already exists",
+      "idExists": "A Credential-Group with these CredentialIDs already exists",
+      "error": "An unexpected error occured"
+    },
+    "buttons" : {
+      "back" : "Back",
+      "delete" : "Delete",
+      "save" : "Save",
+      "add": "Add"
+    }
+  },
+  "login": "Login",
+  "settings": "Settings",
+  "logout": "Logout",
+  "forgotPassword": "Forgot password",
+  "admin_main": {
+    "users": "Manage users",
+    "credentials": "Configure credentials",
+    "website": "Edit website"
+  },
+  "title_login": {
+    "loginSuccess": "Login successful",
+    "loginFailed": "Login failed",
+    "continueAsGuest": "Continue as guest",
+    "newHere": "New here?",
+    "registration": "Registration",
+    "justWantToLookAtTheFloorplan": "I just want to look at the floorplan",
+    "password": "Password",
+    "email": "E-Mail",
+    "wrongLogin": "Wrong password or e-mail",
+    "authenticationFailed": "Account has not been fully activated yet",
+    "logout": "Logout"
+  },
+  "issuer": {
+    "issueCredential": "Issue new credential",
+    "issue": "Issue",
+    "selectCredential": "Select a credential",
+    "expirationDate": "Expiration date",
+    "expiration_date": "Expiration date",
+    "datePickerClose": "Close",
+    "failedToFetchCredentials": "Failed to fetch credentials",
+    "fieldRequired": "Required",
+    "editChecklistItems": "Edit checklist items for ",
+    "addChecklistField": "Add",
+    "cancel": "Cancel",
+    "save": "Save",
+    "checklistFieldLabel": "Item name",
+    "errorCouldNotSaveChecklist": "Could not save checklist items",
+    "edit": "Edit",
+    "qrcode-done": "Done",
+    "error": "An error occurred.",
+    "error-title": "Error while creating the QR-Code",
+    "first_name": "First name",
+    "last_name": "Last name",
+    "birth_date": "Birth date",
+    "type": "Type",
+    "id": "Membership ID"
+  },
+  "editor": {
+    "loading_room": "Loading rooms...",
+    "create_success": "Room successfully created: ",
+    "loading": "Please wait...",
+    "create_error": "Room could not be created: ",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "tools": {
+      "changeImageAndName": "Change image and name",
+      "changeImage": "Upload",
+      "select": "Select",
+      "drag": "Drag",
+      "delete": "Delete",
+      "boxdrawing": "Draw Box",
+      "polygon": "Draw Polygon",
+      "group": "Group"
+    },
+    "selectCredential": "Select credential"
+  },
+  "room_info": {
+    "group": "Group",
+    "credentials": "Credentials",
+    "doors": "Doors",
+    "delete_room": "Delete room",
+    "and": "AND",
+    "apply_to_group": "Apply to group",
+    "detailedView": "Detailed View",
+    "add_room_group": "Add Room Group",
+    "edit_room_group": "Edit Room Group"
+  },
+  "credential_view": {
+    "required_credentials": "Required credentials",
+    "room": "Room",
+    "room_group": "Room Group",
+    "updated_requirements": "Updated Requirements"
+  },
+  "resetPassword": {
+    "header": "Set password",
+    "password-h": "password",
+    "password": "password",
+    "repeatPassword-h": "repeat password",
+    "repeatPassword": "Repeat password",
+    "setPassword": "Set password",
+    "passwordEmpty": "Password can not be empty",
+    "passwordsNotEqual": "Passwords do not match",
+    "passwordChanged": "Password changed",
+    "passwordNotChanged": "Password could not be changed"
+  },
+  "forgotPasswordDialog": {
+    "header": "Forgot password",
+    "email-h": "e-mail",
+    "email": "E-Mail",
+    "back": "Back",
+    "reset": "Request reset",
+    "emailSent": "E-Mail sent",
+    "resetFailed": "Reset failed",
+    "emailNotFound": "E-Mail not found"
+  },
+  "cred": {
+    "add": "Add",
+    "delete_card": "Hold to delete card",
+    "or_connection": "OR-Connection",
+    "add_credential": "Add empty credential card",
+    "delete": "Delete",
+    "adding_predicate": "Adding predicate",
+    "adding_credential": "Adding credential",
+    "pred_settings": "Predicate settings",
+    "pred_settings_tooltip": "The predicates are applied to all credentials of the card.",
+    "format": {
+      "date": "Date",
+      "number": "Number",
+      "today": "Today"
+    },
+    "save": "Save credentials",
+    "cancel_save": "Cancel"
+  },
+  "error": {
+    "empty_input": "Please fill in all fields"
+  },
+  "credential_groups": {
+    "credentials": "Credentials",
+    "add": "Add",
+    "back": "Back",
+    "add_credential_group": "Add Credential Group",
+    "where_to_get": "Where to get",
+    "additional_text": "Additional text:"
+  },
+  "userCredentialCard": {
+    "error": "Error",
+    "noDescription": "No description",
+    "noName": "No name",
+    "noOrigin": "Unknown origin"
+  },
+  "floorplan": {
+    "room_creation": "Create Room"
+  }
+}
